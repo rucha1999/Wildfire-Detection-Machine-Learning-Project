@@ -42,8 +42,13 @@ Decision tree came out on top with 83% percent accuracy score Random forest has 
 Multilayer perceptron and SVM both gave average results due to overfitting caused by high number of features present in the dataset.
 
 References
+ 
  • "California Department of Forestry and Fire Protection", [online] Available: https://www.fire.ca.gov/stats-events/. 
+ 
  • Ashima Malik et al. “Wildfire Risk Prediction and Detection using Machine Learning in San Diego, California”. In: Oct. 2021. 
+ 
  •https://www.kaggle.com/datasets/ananthu017/californiawildfire-incidents-20132020 
+ 
  • M. E. Alsahaft, M. A. Alharthi and M. Arif, "Role of Machine Learning Algorithms in Forest Fire Management: A Literature Review", J. Robot. Autom., vol. 5, pp. 212-226, February 2018. 
+ 
  • S. Youssef and B. Abdelaziz, "Prediction of Forest Fires Using Artificial Neural Networks", Appl. Math. Sci., vol. 7, pp. 271-286, January 2013
