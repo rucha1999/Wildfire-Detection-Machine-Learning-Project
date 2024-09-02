@@ -33,7 +33,7 @@ Conclusion
 Accuracy Comparison Data Frame -
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/8c4d943e-c0fe-47f6-a773-2cc54e4a6f72">
 
-Accuracy Comparison Graph -
+Accuracy Comparison Bar Graph  -
 <img width="363" alt="image" src="https://github.com/user-attachments/assets/8947fbf1-759b-4c0c-a9d7-cf84bc974b45">
 
 Decision tree came out on top with 83% percent accuracy score Random forest has average results due to nonlinear correlation present between features. 
